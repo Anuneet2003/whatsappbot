@@ -1,21 +1,5 @@
 # WhatsApp Message Sender
 
----
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-  - [Command-line Mode](#command-line-mode)
-  - [Interactive Mode](#interactive-mode)
-- [Modules Overview](#modules-overview)
-- [Error Handling](#error-handling)
-- [Logging](#logging)
-
----
-
 ## Introduction
 
 The **WhatsApp Message Sender** is a Python application designed to automate the process of sending WhatsApp messages through `pywhatkit`. It allows you to send messages to both individual contacts and groups. You can run it interactively through the console or directly pass arguments via command-line for automation. This tool also includes validation for inputs and logging for tracking message statuses.
