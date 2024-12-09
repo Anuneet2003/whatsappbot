@@ -32,31 +32,6 @@ The **WhatsApp Message Sender** is a Python application designed to automate the
 
 ---
 
-## Installation
-
-1. **Clone the repository**:
-
-    ```bash
-    git clone https://github.com/jpxoi/send_whatsapp.git
-    cd send-whatsapp
-    ```
-
-2. **Install required dependencies**:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-    Make sure you have the following:
-    - Python 3.x
-    - `pywhatkit` (for sending WhatsApp messages)
-    - `argparse` (for handling command-line arguments)
-    - Other standard libraries (logging, re, etc.)
-
-3. **WhatsApp Web**: Ensure that you are logged into WhatsApp Web on your default browser, as `pywhatkit` relies on it.
-
----
-
 ## Usage
 
 You can use the program in two ways: via **command-line arguments** for automation or in an **interactive mode** where the program will guide you through input collection.
